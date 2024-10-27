@@ -1,0 +1,11 @@
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+
+#markers-info {
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
